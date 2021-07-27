@@ -52,6 +52,7 @@ RdsMachine
                 ]
 }
 ```
+Change {CHANGE_IT_TO_EC2_INSTANCE_ID} to i-0e12312312311212 fro example (dont include braces)
 
 This scripts use a docker machine with aws-cli to compile it you shoud put:
 ```
